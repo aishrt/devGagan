@@ -1,0 +1,1 @@
+let wordsArray=words.split(" ");
