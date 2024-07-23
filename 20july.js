@@ -107,3 +107,11 @@ revarray=wordsArray.reverse();
 nrevar=revarray.join(" ");
 nrevar2=nrevar.split("");
 console.log(nrevar2.reverse().join(""))
+
+
+//================================================================================================//
+let abc="123456789"
+let cba=[]
+for(i=0;i<abc.length;i++){
+    
+}
