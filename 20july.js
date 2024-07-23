@@ -106,4 +106,4 @@ let wordsArray=words.split(" ");
 revarray=wordsArray.reverse();
 nrevar=revarray.join(" ");
 nrevar2=nrevar.split("");
-console.log(nrevar2.reverse("").join(""))
+console.log(nrevar2.reverse().join(""))

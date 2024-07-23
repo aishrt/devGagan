@@ -125,7 +125,7 @@
 //     console.log(randoms);
 //     console.log(randoms.unshift(1));
 //     console.log(randoms);
-//     console.log(randoms.{copyWithin}(2,0));
+    console.log(randoms.{copyWithin}(2,0));
 //     console.log(randoms);
 //     console.log(randoms.slice(1,3));
 //     console.log(randoms.splice(3,2));
