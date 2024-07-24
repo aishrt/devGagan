@@ -126,4 +126,4 @@ let abc1=[1,5,4,3,6,7]
 for(i=0;i<abc1.length;i++){
     if(abc[i]<abc[i++])
         
-}d
+}console
