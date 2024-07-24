@@ -153,6 +153,7 @@ console.log(nrevar2.reverse().join(""))
 
 //===============================================================================================//
 
+let words3="knowledge is key to success"
 
 
 
