@@ -9,7 +9,11 @@ let newarr1 = arr1.sort(function (a, b) {
 }
 );
 console.log(newarr1);
+                             
 
+
+
+                        
 //.............decending order...............//
 
 arr2 = arr1.sort(function (a, b) {
